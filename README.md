@@ -7,7 +7,9 @@ Script escrito en Batch para twittear los vuelos que detecta dump1090 con un USB
 
 **Requisitos de Sistema**
 - [jq](https://josef-friedrich.de/install-jq-on-raspberry-pi/): Para procesar json en Bash
-- [dump1090](http://www.satsignal.eu/raspberry-pi/dump1090.html) by @MalcolmRobb: Para instalar el hardware y software. 
+- [dump1090](http://www.satsignal.eu/raspberry-pi/dump1090.html) by @MalcolmRobb: Para instalar el hardware y software.
+- [ttytter](http://www.floodgap.com/software/ttytter/)
+- cUrl
 
 **Requisitos de Hardware**
 - [RTL-2832U USB dongle](http://www.dx.com/p/rtl2832u-r820t-mini-dvb-t-dab-fm-usb-digital-tv-dongle-black-170541#.VCWPKCuBNqo)
